@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stoic-Student
 - 👀 I’m interested in improving my coding  
 - 🌱 I’m currently learning programming through HarvardX's "CS50xCS50's Introduction to Computer Science"
-- 💞️ I’m looking to collaborate on anything that could help me learn. Familar with: HTML, CSS
+- 💞️ I’m looking to collaborate on anything that could my learning and help you too. Familar with: HTML, CSS
 - 📫 How to reach me email: Kirton.Jordan@gmail.com
 
 <!---
